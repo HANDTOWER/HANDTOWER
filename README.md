@@ -1,16 +1,22 @@
-## Hi there 👋
+### 안녕하세요! 👋
 
-<!--
-**HANDTOWER/HANDTOWER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**사회 문제를 기술로 해결하는 풀스택 개발자, 박성진입니다.**
 
-Here are some ideas to get you started:
+저는 AI 기술을 활용해 실제 사용자가 겪는 어려움을 해결하는 데 가치를 둡니다.
+단순히 기능을 구현하는 것을 넘어, 실사용자(대구농아인협회 등)의 목소리를 직접 듣고 서비스를 기획·개선한 경험이 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+웹 앱, 키오스크, 크롬 확장 프로그램 등 특정 플랫폼에 국한되지 않고, 새로운 기술 환경에 빠르게 적응하여 아이디어를 실현합니다.
+
+주요 기술 스택은 **React, JavaScript, tailwind**이며, **MySQL**과 **Node.js**를 활용한 서버 구축 및 **MediaPipe**와 **OpenCV**를 활용한 AI 서비스 연동 또한 경험해봤습니다.
+
+**대표 프로젝트:**
+
+* **Edge AI Staff Evaluation**: 무거운 AI 모델을 웹 클라이언트에 최적화하여 탑재한 객관적 직원 복장 평가 시스템.
+* **AI 기반 의료 정보 검증**: RAG 기술을 접목해 LLM 환각 현상을 최소화한 의료 정보 검증 크롬 확장 프로그램.
+* **실시간 수어 의료 지원 서비스**: 청각 장애인을 위한 AI 수어 번역 키오스크.
+
+**Fun Facts & TMI:**
+
+* 베트남 개발자들과의 협업을 통해 **언어 장벽을 넘는 Agile 소통 능력**을 길렀습니다.
+* 사용자 인터뷰가 서비스의 방향성을 결정한다는 것을 몸소 체험했습니다.
+* **2025년 경북 네트워크형 캠퍼스 SW 아카데미 최우수상** 및 **프로젝트 발표회 최우수상** 수상 경력이 있습니다.
